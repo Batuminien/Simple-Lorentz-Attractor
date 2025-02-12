@@ -6,16 +6,17 @@ The **Lorenz Attractor** is a set of chaotic solutions to the Lorenz system, a s
 
 Mathematically, the Lorenz system is defined by the following differential equations:
 
-\[
-\frac{dx}{dt} = \sigma (y - x) \\
-\frac{dy}{dt} = x (\rho - z) - y \\
-\frac{dz}{dt} = xy - \beta z
-\]
+$$
+\\frac{dx}{dt} = \\sigma (y - x) \\\\
+\\frac{dy}{dt} = x (\\rho - z) - y \\\\
+\\frac{dz}{dt} = xy - \\beta z
+$$
+
 
 Where:
-- **\( \sigma \)** is the Prandtl number,
-- **\( \rho \)** is the Rayleigh number,
-- **\( \beta \)** is a geometric factor.
+- **$\\sigma$** is the Prandtl number,
+- **$\\rho$** is the Rayleigh number,
+- **$\\beta$** is a geometric factor.
 
 ## About This Project
 
