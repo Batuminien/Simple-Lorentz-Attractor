@@ -7,9 +7,9 @@ The **Lorenz Attractor** is a set of chaotic solutions to the Lorenz system, a s
 Mathematically, the Lorenz system is defined by the following differential equations:
 
 $$
-\\frac{dx}{dt} = \\sigma (y - x) \\\\
-\\frac{dy}{dt} = x (\\rho - z) - y \\\\
-\\frac{dz}{dt} = xy - \\beta z
+\frac{dx}{dt} = \sigma (y - x) <br>
+\frac{dy}{dt} = x (\rho - z) - y <br>
+\frac{dz}{dt} = xy - \beta z
 $$
 
 
