@@ -31,7 +31,7 @@ This project visualizes the Lorenz attractor using Python. The script numericall
 
 ```bash
 git clone https://github.com/Batuminien/Simple-Lorentz-Attractor.git
-cd simple-lorenz-attractor
+cd Simple-Lorenz-Attractor
 ```
 
 2. **Install dependencies:**
