@@ -8,9 +8,9 @@ Mathematically, the Lorenz system is defined by the following differential equat
 
 The Lorenz system is defined as:
 
-- $ \frac{dx}{dt} = \sigma (y - x) $
-- $ \frac{dy}{dt} = x (\rho - z) - y $
-- $ \frac{dz}{dt} = xy - \beta z $
+- $ \\frac{dx}{dt} = \\sigma (y - x) $
+- $ \\frac{dy}{dt} = x (\\rho - z) - y $
+- $ \\frac{dz}{dt} = xy - \\beta z $
 
 
 
